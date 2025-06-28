@@ -1,9 +1,17 @@
+
+const Password = () => {
 if(a>0){
 b=5,
 c=10,
 e=15,
 g= b+ c+ e
 }
+}
+
+
+
 
 
 console.log('Helloo')
+
+
