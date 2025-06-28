@@ -1,0 +1,7 @@
+function getLogin(user){
+ if(user.login === 'string'){
+`Login is string`
+}else{
+ `Login is number`
+}
+}
