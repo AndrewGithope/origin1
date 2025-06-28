@@ -11,6 +11,12 @@ g= b+ c+ e
 let doctor
 
 
+function upRating(user){
+if(doctor === 10 | doctor === 15){
+return 'You win'
+}
+}
+
 
 console.log('Helloo')
 
