@@ -10,7 +10,9 @@ g= b+ c+ e
 
 let doctor
 
+
 let docent  = 10
+
 
 
 function upRating(user){
