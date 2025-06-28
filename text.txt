@@ -4,3 +4,6 @@ c=10,
 e=15,
 g= b+ c+ e
 }
+
+
+console.log('Helloo')
