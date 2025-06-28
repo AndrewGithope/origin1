@@ -5,3 +5,8 @@ function getLogin(user){
  `Login is number`
 }
 }
+
+
+function multiply(a, b){
+a * b
+}
