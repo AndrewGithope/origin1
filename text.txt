@@ -10,6 +10,8 @@ g= b+ c+ e
 
 let doctor
 
+let docent 
+
 
 
 console.log('Helloo')
