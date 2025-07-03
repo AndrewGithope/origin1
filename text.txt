@@ -14,6 +14,9 @@ let doctor
 let docent  = 10
 
 
+const arr = [1, 'helloo', 32]
+
+
 
 function upRating(user){
 if(doctor === 10 | doctor === 15){
